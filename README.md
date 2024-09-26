@@ -18,7 +18,7 @@ decisions, ensuring our new aviation division takes off on the right foot
 with its foundation: knowledge, safety, and operational efficiency.
 
 
-## BUSINESSUNDERSTANDING.
+## BUSINESS UNDERSTANDING.
 In this section, I want to answer the most important
 questions that have to be done in order to decide
 which is the safest aircraft to buy:
