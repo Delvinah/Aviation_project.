@@ -79,7 +79,7 @@ Based on the analysis, the following recommendations are made to guide aircraft 
 
 ## Tableau link
 
-[https://public.tableau.com/app/profile/delvin.osoro/viz/Book2_17273876535170/Dashboard1?publish=yes](URL)
+[view my tableau dashboard](https://public.tableau.com/app/profile/delvin.osoro/viz/Book2_17273876535170/Dashboard1?publish=yes)
 
 
 
